@@ -1,0 +1,12 @@
+mediapipe
+opencv-python
+tensorflow
+numpy
+pyttsx3
+pygame-ce
+scipy
+scikit-learn
+pandas
+matplotlib
+onnxruntime
+
